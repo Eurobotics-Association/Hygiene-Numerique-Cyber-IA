@@ -77,6 +77,26 @@ Commencez par l'ordinateur de la personne la plus « geek » de la famille. Elle
 
 📱 Sur téléphone et tablette, installez **l'application Proton Pass** et activez le remplissage automatique dans les réglages. **Chaque personne garde son propre compte** ; ne partagez pas un seul mot de passe Proton pour toute la famille.
 
+#### 🔒 Verrouiller le coffre-fort : PIN et délai court
+
+**À configurer impérativement :** ouvrez l'extension Proton Pass → menu → **Paramètres → Sécurité**, puis activez le **code PIN à 6 chiffres** et choisissez un verrouillage automatique court, **par exemple 5 minutes**. Évitez les suites évidentes et les dates de naissance. [Pas à pas officiel](https://proton.me/fr/support/proton-pass-pin).
+
+Ce réglage verrouille l'accès au coffre-fort ; il ne désinstalle ni ne désactive l'extension. Verrouillez aussi votre ordinateur quand vous vous éloignez.
+
+#### 💳 Conserver ses cartes bancaires dans Proton Pass
+
+**Pour conserver vos cartes de crédit ou de débit au format numérique, utilisez impérativement le coffre-fort Proton Pass dans le cadre de ce guide.** Ouvrez Proton Pass → **+ → Carte de crédit / carte bancaire**, puis renseignez les informations de la carte et enregistrez.
+
+Vous les retrouverez dans votre coffre-fort chiffré. Évitez les photos de cartes dans la galerie, les e-mails et les notes de contacts. **Le PIN de Proton Pass est distinct du code confidentiel de votre carte bancaire.**
+
+#### 💡 Une astuce avec Google Contacts : des indices seulement
+
+**Gmail et Google Contacts bénéficient des protections du compte Google.** Renforcez ce compte avec un mot de passe unique et la [validation en deux étapes](https://support.google.com/accounts/answer/185839?hl=fr).
+
+Si un aide-mémoire vous est utile, ouvrez une fiche dans [Google Contacts](https://contacts.google.com/), choisissez **Modifier**, puis utilisez le champ **Notes** pour un indice personnel qui ne permet pas à quelqu'un d'autre de retrouver votre mot de passe. Évitez les fragments de mot de passe, les dates de naissance et les noms de proches.
+
+**Google Contacts n'est pas un coffre-fort de mots de passe :** les mots de passe complets et les données de cartes bancaires restent dans Proton Pass ; les codes de secours restent conservés à l'abri comme expliqué plus haut.
+
 🎬 [Proton Pass pas à pas — vidéo en français, shostarsson](https://www.youtube.com/watch?v=t-kFWeS-qCM&t=260s). Regardez surtout **4:20 à 11:30**, soit environ **7 minutes** de configuration.
 
 ### ④ Acheter et installer F‑Secure Total · Payant
@@ -106,6 +126,8 @@ Commencez par l'ordinateur de la personne la plus « geek » de la famille. Elle
 - [ ] Le compte administrateur a été testé ; son mot de passe papier est en lieu sûr et son accès maîtrisé.
 - [ ] Chaque personne dispose de son compte Proton, avec sa récupération préparée.
 - [ ] Brave et Proton Pass sont configurés sur les appareils utilisés.
+- [ ] L'extension Proton Pass est verrouillée par un PIN à 6 chiffres, avec un délai court (par exemple 5 minutes).
+- [ ] Les cartes bancaires conservées au format numérique sont rangées dans Proton Pass.
 - [ ] Les appareils compatibles sont couverts par F‑Secure et la protection est active.
 
 **Une installation terminée ? Passez au prochain appareil. La protection de la famille se construit ensemble.**
@@ -128,6 +150,8 @@ Ce premier parcours sera complété par des chapitres courts :
 Informations vérifiées le **5 octobre 2026**. Les interfaces, offres et compatibilités peuvent évoluer. Les vidéos externes illustrent les gestes ; pour télécharger ou acheter, utilisez les liens officiels du guide.
 
 - [Proton : création d'une adresse gratuite](https://proton.me/fr/support/create-a-free-email-account-address), [téléchargement de Proton Pass](https://proton.me/fr/pass/download).
+- [Proton Pass : verrouillage par PIN](https://proton.me/fr/support/proton-pass-pin), [enregistrement des cartes bancaires](https://proton.me/support/pass-browser-extension).
+- [Google : validation en deux étapes](https://support.google.com/accounts/answer/185839?hl=fr).
 - [Brave : installation](https://support.brave.app/hc/fr/articles/360025390311-Comment-t%C3%A9l%C3%A9charger-et-installer-Brave).
 - [F‑Secure Total : fonctions et systèmes compatibles](https://www.f-secure.com/fr/total), [réserves officielles sur Brave](https://community.f-secure.com/en/discussion/128735/browser-add-on-for-brave).
 - [F‑Secure : limites du scan antivirus sur iOS](https://community.f-secure.com/fi/discussion/127381/total-iphone-ja-ipad) — réponse de l'éditeur, en finnois.
