@@ -33,6 +33,20 @@ Commencez par l'ordinateur de la personne la plus « geek » de la famille. Elle
 
 **Choisissez un mot de passe long et unique. Écrivez-le sur un papier conservé dans un endroit sûr**, connu d'un adulte de confiance : pas sur un post-it collé à l'écran ! Testez le nouveau compte administrateur avant de passer le compte quotidien en standard.
 
+### Un compte personnel pour chacun, des droits limités
+
+**Sur chaque ordinateur, créez un compte utilisateur standard pour chaque personne qui l'utilise.** Enfants, adolescents, jeunes adultes et personnes âgées doivent avoir un compte standard pour leurs activités quotidiennes. Cette règle vaut aussi pour les adultes à l'aise en informatique.
+
+**Pourquoi ?** Un compte administrateur peut modifier les protections et les réglages de tout l'ordinateur. Un logiciel malveillant — virus, cheval de Troie (« trojan ») ou autre — auquel on accorde ces droits peut donc faire davantage de dégâts. Le compte standard limite ce risque, même s'il ne bloque pas tous les logiciels ni toutes les infections.
+
+**Qui peut être administrateur ?** Réservez ce rôle à une ou quelques personnes de confiance ayant un minimum de formation informatique : savoir télécharger depuis une source officielle, vérifier une demande d'autorisation et comprendre ce qu'elles installent. Être le plus « geek » ou être adulte ne suffit pas à lui seul.
+
+**Comment vérifier ?** Dans les paramètres des utilisateurs de chaque ordinateur, regardez le type de chaque compte : **Standard** ou **Administrateur**. Créez les comptes personnels manquants et retirez les droits administrateur inutiles, après avoir testé le compte administrateur conservé.
+
+📝 **En cas de besoin ponctuel**, le mot de passe administrateur peut être laissé sur papier dans un endroit sûr, accessible à la personne autorisée. Pour les enfants, privilégiez sa saisie par un parent. Utilisez-le seulement pour une installation ou un réglage vérifié ; ne le saisissez jamais à la demande d'une publicité, d'un appel ou d'un message inattendu.
+
+**Le bon réflexe : chacun utilise son compte standard ; la personne référente intervient quand une autorisation administrateur est nécessaire.**
+
 ## 🔐 2. Protéger la navigation et les mots de passe
 
 **Suivez ces quatre étapes dans l'ordre, puis recommencez pour chaque membre de la famille.**
@@ -87,7 +101,9 @@ Commencez par l'ordinateur de la personne la plus « geek » de la famille. Elle
 ## ✅ La petite vérification en famille
 
 - [ ] Tous les téléphones, tablettes et ordinateurs ont été recensés.
-- [ ] Le compte administrateur a été testé ; son mot de passe papier est en lieu sûr.
+- [ ] Chaque personne a son propre compte standard sur les ordinateurs qu'elle utilise.
+- [ ] Les comptes administrateurs sont identifiés et réservés aux personnes ayant les bases informatiques nécessaires.
+- [ ] Le compte administrateur a été testé ; son mot de passe papier est en lieu sûr et son accès maîtrisé.
 - [ ] Chaque personne dispose de son compte Proton, avec sa récupération préparée.
 - [ ] Brave et Proton Pass sont configurés sur les appareils utilisés.
 - [ ] Les appareils compatibles sont couverts par F‑Secure et la protection est active.
